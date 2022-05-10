@@ -1,0 +1,34 @@
+body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    font-size: 32px;
+}
+figure {
+    float: right;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1.5em;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+#table_caption { 
+    font-style: italic;
+    caption-side: bottom;
+   }
+figcaption {
+    font-style: italic;
+    caption-side: bottom;
+}
+#Need_space {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+table, th, td {
+    border: 1px solid;
+}
